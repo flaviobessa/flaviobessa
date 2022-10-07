@@ -2,7 +2,7 @@
 
 
                                                  - 🔭 Hoje trabalho com Telecomunição
-                                            - 🌱 Estou estudando programação (HTML,CSS e JS)
+                                            - 🌱 Estudando programação (HTML,CSS e JS)
 
 <div align="center">
   <a href="https://github.com/flaviobessa">
