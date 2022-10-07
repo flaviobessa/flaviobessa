@@ -1,8 +1,8 @@
-                                                        ### Ola ! eu sou Flavio Bessa  👋
+                                                     ### Ola ! eu sou Flavio Bessa  👋
 
 
-                                                 - 🔭 Hoje trabalho com Telecomunição
-                                            - 🌱 Estudando programação (HTML,CSS e JS)
+                                                 - 🔭 Hoje trabalho com Telecomunição -
+                                             - 🌱 Estudando programação (HTML,CSS e JS)  -
 
 <div align="center">
   <a href="https://github.com/flaviobessa">
